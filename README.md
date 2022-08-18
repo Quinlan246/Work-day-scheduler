@@ -8,4 +8,8 @@
 
 - Current date and time is displayed at the top of the page.
 
+<img width="1381" alt="Screen Shot 2022-08-18 at 3 53 49 PM" src="https://user-images.githubusercontent.com/108549782/185495263-0d62c774-b958-4508-9cfe-fc589da878e8.png">
+
+https://github.com/Quinlan246/Work-day-scheduler
+
 
