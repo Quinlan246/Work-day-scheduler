@@ -12,4 +12,4 @@
 
 https://github.com/Quinlan246/Work-day-scheduler
 
-
+https://quinlan246.github.io/Work-day-scheduler/
